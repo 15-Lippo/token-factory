@@ -17,3 +17,4 @@ var EthereumFee=0.01;
 var CronosFee=30;
 var PhoenixFee=10;
 var CandleFee=10;
+var MumbaiFee=0.2;
